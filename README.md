@@ -2,9 +2,11 @@
 LHUB CapstoneProject
 - Prepared by: Feng Yuanmei
 - Dataset Used: Market Analysis
-  
+
+ <p align="center"> <img width="280" height="280" alt="Latin America Retail Insights Emblem" src="https://github.com/user-attachments/assets/eeb069fb-63ed-40dd-8073-e1fbda3d67f3" />
+
 ## 📋 Project Overview
-As a data analyst supporting a retail company, my goal is to analyse customer demographics, purchasing patterns, product performance and discount data to identify opportunities for sales growth and repeat purchases.
+As a data analyst supporting a retail company operating across four Latin American markets (Brazil, Chile, Colombia and Mexico), my goal is to analyse customer demographics, purchasing patterns, product performance and discount data to identify high-value customer segments and guide marketing and product decisions that support sales growth and encourage repeat purchases.
 
 ## 📝 Project Objectives
 * **Sales Trends and Seasonal Patterns**
