@@ -1,4 +1,4 @@
-# Market-Analysis
+# Retail Sales and Customer Purchase Analysis
 LHUB CapstoneProject
 - Prepared by: Feng Yuanmei
 - Dataset Used: Market Analysis
