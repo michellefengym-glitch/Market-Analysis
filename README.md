@@ -1,6 +1,8 @@
 # Market-Analysis
 LHUB CapstoneProject
 - Prepared by: Feng Yuanmei
+- Dataset Used: Market Analysis
+  
 ## 📋 Project Overview
 As a data analyst supporting a retail company, my goal is to analyse customer demographics, purchasing patterns, product performance and discount data to identify opportunities for sales growth and repeat purchases.
 
