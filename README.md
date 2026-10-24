@@ -1,12 +1,9 @@
-# Retail Sales and Customer Purchase Analysis
 LHUB CapstoneProject
 - Prepared by: Feng Yuanmei
 - Dataset Used: Market Analysis
 
  <p align="center"> 
-  <img width="280" height="280" alt="Retail Insights Latin America logo on white (1)" src="https://github.com/user-attachments/assets/26c4c809-6c05-44fa-a953-74a701df7117" />
-
- 
+<img width="280" height="280" alt="Subtle basket stroke refinement" src="https://github.com/user-attachments/assets/d2091e0c-8664-4230-9901-0f6c4110e5e0" />
 
 
 
@@ -14,7 +11,8 @@ LHUB CapstoneProject
 As a data analyst supporting a retail company operating across four Latin American markets (Brazil, Chile, Colombia and Mexico), my goal is to analyse customer demographics, purchasing patterns, product performance and discount data to identify high-value customer segments and guide marketing and product decisions that support sales growth and encourage repeat purchases.
 
 ## 💡 Power BI Dashboard
-<img width="1537" height="873" alt="image" src="https://github.com/user-attachments/assets/f3429c59-2254-4bec-859f-3ab4634b2937" />
+<img width="1151" height="650" alt="image" src="https://github.com/user-attachments/assets/64449aa3-7fa4-4c4b-8468-39b3e48a905f" />
+
 
 
 ## 📝 Project Objectives
