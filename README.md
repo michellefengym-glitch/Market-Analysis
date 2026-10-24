@@ -11,7 +11,8 @@ LHUB CapstoneProject
 As a data analyst supporting a retail company operating across four Latin American markets (Brazil, Chile, Colombia and Mexico), my goal is to analyse customer demographics, purchasing patterns, product performance and discount data to identify high-value customer segments and guide marketing and product decisions that support sales growth and encourage repeat purchases.
 
 ## 💡 Power BI Dashboard
-<img width="1151" height="650" alt="image" src="https://github.com/user-attachments/assets/64449aa3-7fa4-4c4b-8468-39b3e48a905f" />
+<img width="1155" height="653" alt="image" src="https://github.com/user-attachments/assets/23aaf98c-d39e-4c4f-8430-4291b3f77d08" />
+
 
 
 
