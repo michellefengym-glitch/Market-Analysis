@@ -1,4 +1,5 @@
-LHUB CapstoneProject
+LHUB Capstone Project
+# Retail Sales and Customer Purchase Analysis
 - Prepared by: Feng Yuanmei
 - Dataset Used: Market Analysis
 
@@ -236,6 +237,9 @@ Demographic results describe the existing customer base. Customer
 value and product preferences should also inform marketing decisions.
 
 ### Objective 3: Customer Value Segmentation
+Customers are segmented using median total spending of 262,188.80
+and median recency of 17 days, measured as of 2 January 2023.
+
 <img width="1187" height="590" alt="2" src="https://github.com/user-attachments/assets/676fdae3-43b3-47fc-b1cc-1daa37f100b3" />
 
 
