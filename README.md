@@ -236,9 +236,8 @@ Demographic results describe the existing customer base. Customer
 value and product preferences should also inform marketing decisions.
 
 ### Objective 3: Customer Value Segmentation
+<img width="1187" height="590" alt="2" src="https://github.com/user-attachments/assets/676fdae3-43b3-47fc-b1cc-1daa37f100b3" />
 
-Customers are grouped using median total spending of **262,188.80**
-and median recency of **17 days**, measured as of **2 January 2023**.
 
 | Customer Segment | Customers | Customer Share | Sales Share |
 | --- | ---: | ---: | ---: |
@@ -258,6 +257,9 @@ These segments describe historical behaviour rather than predict
 customer loyalty or churn.
 
 ### Objective 4: Product Performance and Revenue Concentration
+<img width="1589" height="490" alt="1" src="https://github.com/user-attachments/assets/a72a4b76-6f6b-4561-8220-c00151a7a08d" />
+<img width="1789" height="490" alt="2" src="https://github.com/user-attachments/assets/14dfd747-d8d9-4492-bb40-312ddfaedfde" />
+
 <img width="1590" height="796" alt="product_pareto" src="https://github.com/user-attachments/assets/860d4f5f-17f5-4122-8a56-400cd6c4b36f" />
 
 - **Home & Living** generates approximately **177.31 million**,
@@ -274,6 +276,8 @@ Product decisions should consider revenue, quantities and selling
 prices together. Revenue alone does not establish profitability.
 
 ### Objective 5: Discount and Purchasing Behaviour
+<img width="1690" height="490" alt="1" src="https://github.com/user-attachments/assets/9eeac7d1-a148-49d3-89a3-1cdff24b59dc" />
+
 
 - Only **477 orders** have no discount; discounted transactions
   account for most orders.
