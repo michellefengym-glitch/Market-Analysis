@@ -2,9 +2,9 @@ LHUB CapstoneProject
 - Prepared by: Feng Yuanmei
 - Dataset Used: Market Analysis
 
- <p align="center"> 
-<img width="280" height="280" alt="Subtle basket stroke refinement" src="https://github.com/user-attachments/assets/d2091e0c-8664-4230-9901-0f6c4110e5e0" />
-
+<p align="center">
+  <img width="280" alt="Retail Insights Latin America Logo" src="https://github.com/user-attachments/assets/d2091e0c-8664-4230-9901-0f6c4110e5e0" />
+</p>
 
 
 ## 📋 Project Overview
@@ -44,7 +44,7 @@ The project uses two datasets:
 - **Transaction period:** 15 August 2019–1 January 2023.
 - **Markets:** Brazil, Chile, Colombia and Mexico.
 - **Purchasing customers:** 1,000.
-- **Product types:** 30, grouped into Home & Living, Electronics and Fashion.
+- **Product types:** 30, grouped into Home & Living, Electronics and Fashion & Apparel.
 - Each purchase record represents one order.
 - One customer has no recorded purchases and is retained in the customer table.
 
