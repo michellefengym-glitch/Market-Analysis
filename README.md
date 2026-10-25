@@ -8,6 +8,25 @@ LHUB Capstone Project
 </p>
 
 
+## 📑 Table of Contents
+
+- [Project Overview](#-project-overview)
+- [Power BI Dashboard](#-power-bi-dashboard)
+- [Project Objectives](#-project-objectives)
+- [Dataset Overview](#-dataset-overview)
+- [Data Understanding and Preparation](#-data-understanding-and-preparation)
+- [Exploratory Data Analysis (EDA)](#-exploratory-data-analysis-eda)
+- [Business Analysis and Key Findings](#-business-analysis-and-key-findings)
+  - [Objective 1: Sales Trends and Seasonal Patterns](#objective-1-sales-trends-and-seasonal-patterns)
+  - [Objective 2: Customer Demographic and Geographic Analysis](#objective-2-customer-demographic-and-geographic-analysis)
+  - [Objective 3: Customer Value Segmentation](#objective-3-customer-value-segmentation)
+  - [Objective 4: Product Performance and Revenue Concentration](#objective-4-product-performance-and-revenue-concentration)
+  - [Objective 5: Discount and Purchasing Behaviour](#objective-5-discount-and-purchasing-behaviour)
+- [Business Recommendations](#-business-recommendations)
+- [Limitations](#️-limitations)
+- [Tools and Resources](#️-tools-and-resources)
+- [Conclusion](#-conclusion)
+
 ## 📋 Project Overview
 As a data analyst supporting a retail company operating across four Latin American markets (Brazil, Chile, Colombia and Mexico), my goal is to analyse customer demographics, purchasing patterns, product performance and discount data to identify high-value customer segments and guide marketing and product decisions that support sales growth and encourage repeat purchases.
 
