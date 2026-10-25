@@ -174,3 +174,86 @@ mathematical definition.
 
 These correlations describe associations and do not establish
 causal relationships.
+
+## 💡 Business Analysis and Key Findings
+
+### Objective 1: Sales Trends and Seasonal Patterns
+
+- Total sales before tax are approximately **263.69 million**,
+  generated from **50,000 orders** and **274,878 units**.
+- Average order value is approximately **5,274**.
+- Across complete months, sales fluctuate without a clear sustained
+  upward or downward trend.
+- Annual sales decreased by approximately **3.55% in 2021** and
+  increased by **1.01% in 2022**.
+- No consistent seasonal pattern was established.
+- August 2019 and January 2023 are partial months and should not
+  be compared directly with complete months.
+
+### Objective 2: Customer Demographic and Geographic Analysis
+
+- **Colombia** contributes the largest sales share at **28.20%**,
+  followed by Chile, Mexico and Brazil.
+- Average order values are relatively similar across countries,
+  indicating that revenue differences mainly reflect customer
+  and order counts.
+- The **46–55 age group** contributes the highest sales share
+  at **22.27%**.
+- The **30K–60K income group** contributes the largest income-group
+  sales share at **25.99%**.
+- Revenue is nearly evenly split between male and female customers.
+
+Demographic results describe the existing customer base. Customer
+value and product preferences should also inform marketing decisions.
+
+### Objective 3: Customer Value Segmentation
+
+Customers are grouped using median total spending of **262,188.80**
+and median recency of **17 days**, measured as of **2 January 2023**.
+
+| Customer Segment | Customers | Customer Share | Sales Share |
+| --- | ---: | ---: | ---: |
+| Higher Spending / Recent | 253 | 25.30% | 28.90% |
+| Higher Spending / Less Recent | 247 | 24.70% | 28.47% |
+| Lower Spending / Recent | 250 | 25.00% | 21.25% |
+| Lower Spending / Less Recent | 250 | 25.00% | 21.38% |
+
+The higher-spending groups represent **50% of purchasing customers**
+and contribute approximately **57.37% of total sales**.
+
+Every purchasing customer has exactly **50 orders**, so frequency
+does not distinguish customers. Average order value also gives the
+same ranking as total spending.
+
+These segments describe historical behaviour rather than predict
+customer loyalty or churn.
+
+### Objective 4: Product Performance and Revenue Concentration
+
+- **Home & Living** generates approximately **177.31 million**,
+  accounting for **67.24% of total sales**.
+- Quantities sold are nearly equal across the three categories;
+  revenue differences mainly reflect average selling prices.
+- **Curtains** generates the highest product revenue, while
+  **Sports Shoes** records the highest units sold.
+- The top five product types contribute **34.30%** of total sales.
+- Fifteen of the thirty product types contribute **81.80%**,
+  so the dataset does not follow a strict 80/20 Pareto distribution.
+
+Product decisions should consider revenue, quantities and selling
+prices together. Revenue alone does not establish profitability.
+
+### Objective 5: Discount and Purchasing Behaviour
+
+- Only **477 orders** have no discount; discounted transactions
+  account for most orders.
+- Average units per order remain broadly similar across discount bands.
+- Average order value decreases as discount levels increase.
+- Within individual product types, there is no consistent tendency
+  for purchase quantity to rise with deeper discounts.
+- No-discount averages require caution because each product has
+  relatively few orders without a discount.
+
+The analysis does not establish that deeper discounts generate
+incremental demand. Product cost and margin data would be required
+to assess promotional profitability.
