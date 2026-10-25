@@ -257,3 +257,81 @@ prices together. Revenue alone does not establish profitability.
 The analysis does not establish that deeper discounts generate
 incremental demand. Product cost and margin data would be required
 to assess promotional profitability.
+
+## 🧭 Business Recommendations
+
+### Customer Engagement
+
+Test retention offers for higher-spending recent customers and
+re-engagement campaigns for higher-spending less recent customers.
+Relevant cross-selling offers could also be tested among
+lower-spending recent customers.
+
+### Marketing Decisions
+
+Combine demographics with customer spending, recency and product
+preferences when selecting campaign audiences. Lower revenue
+contribution alone does not establish greater growth potential.
+
+### Product Decisions
+
+Monitor Home & Living closely because it contributes 67.24% of
+total sales. Consider revenue, quantities sold and selling prices
+together when evaluating products.
+
+Review margins, inventory turnover and customer purchasing patterns
+before reducing lower-revenue product lines or stock allocations.
+
+### Promotional Planning
+
+Evaluate discount offers through controlled testing. Compare
+incremental sales and contribution margins before expanding
+promotions, rather than assuming deeper discounts increase demand.
+
+### Sales Planning
+
+Compare complete periods when monitoring sales performance.
+Clearly identify partial months to avoid misleading conclusions.
+
+## ⚠️ Limitations
+
+- Every purchasing customer has exactly 50 orders, limiting the
+  usefulness of purchase frequency for segmentation.
+- Average order value produces the same customer ranking as total
+  spending because order counts are identical.
+- Customer segments describe historical behaviour and use a fixed
+  recency reference date of 2 January 2023.
+- Product costs, profit margins and inventory data are unavailable.
+- No-discount groups contain relatively few observations, especially
+  when filtered by product or country.
+- August 2019 and January 2023 contain partial-month data.
+- Observed relationships do not establish causal effects.
+
+## 🛠️ Tools and Resources
+
+| Tool | Purpose |
+| --- | --- |
+| Google Colab | Python notebook development and execution |
+| pandas / NumPy | Data preparation, calculations and aggregation |
+| Matplotlib / Seaborn | Exploratory and business analysis charts |
+| Microsoft Power BI | Data modelling, DAX measures and interactive dashboards |
+| GitHub | Project documentation and file sharing |
+
+## 🏁 Conclusion
+
+This project analyses retail sales and customer purchasing behaviour
+across Brazil, Chile, Colombia and Mexico using Python and Power BI.
+
+The analysis identifies major revenue contributors, compares customer
+profiles, segments customers by spending and recency, and examines
+product performance and discount patterns.
+
+Home & Living contributes the largest revenue share, while the
+higher-spending half of purchasing customers generates approximately
+57.37% of total sales. Deeper discounts show no consistent association
+with larger quantities purchased per order.
+
+The findings provide a basis for testing targeted customer engagement,
+monitoring product performance and reviewing promotions. Further
+campaign testing and cost data are needed to assess their commercial
+impact.
