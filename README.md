@@ -196,6 +196,11 @@ causal relationships.
 ## 💡 Business Analysis and Key Findings
 
 ### Objective 1: Sales Trends and Seasonal Patterns
+<img width="1589" height="842" alt="1" src="https://github.com/user-attachments/assets/534af518-5ac8-4855-8c43-9a70d368460a" />
+<img width="889" height="490" alt="2" src="https://github.com/user-attachments/assets/15cc6d08-45df-4794-a098-f4fbe0a83e9e" />
+<img width="1089" height="490" alt="3" src="https://github.com/user-attachments/assets/08bfa5aa-2146-42e8-945a-645c2df21ba5" />
+
+
 
 - Total sales before tax are approximately **263.69 million**,
   generated from **50,000 orders** and **274,878 units**.
@@ -209,6 +214,12 @@ causal relationships.
   be compared directly with complete months.
 
 ### Objective 2: Customer Demographic and Geographic Analysis
+<img width="1289" height="490" alt="1" src="https://github.com/user-attachments/assets/601a57ab-3d76-4e1d-bc62-029c7ee5cba8" />
+<img width="1289" height="490" alt="2" src="https://github.com/user-attachments/assets/5fdb14d6-34dd-4a47-883d-ddca3d285a35" />
+<img width="1189" height="490" alt="3" src="https://github.com/user-attachments/assets/8ad43197-bc9a-4cbe-b1ca-04b0bca3189d" />
+<img width="1390" height="490" alt="4" src="https://github.com/user-attachments/assets/7f801035-48ab-4260-8348-a63af1d2f380" />
+
+
 
 - **Colombia** contributes the largest sales share at **28.20%**,
   followed by Chile, Mexico and Brazil.
