@@ -144,12 +144,24 @@ once per order.
 Exploratory analysis was conducted to understand numerical
 distributions, investigate unusually high order values and examine
 relationships between variables before the business analysis.
+### Customer Group Distributions
+Customer counts are compared across country, gender, age group
+and income range using the customer master table.
+<img width="1389" height="989" alt="1" src="https://github.com/user-attachments/assets/758a87d9-5f9b-49f8-8c2c-e8e7e001ad75" />
+
+The chart includes all 1,001 registered customers, including one
+customer without recorded purchases.
+
+Colombia has the largest customer base, gender distribution is
+nearly balanced, and the 46–55 age group and 30K–60K income range
+contain the most customers within their respective classifications.
 
 ### Numerical Distributions
 
 Descriptive statistics and distribution plots were used to examine
 prices, quantities, discounts, customer ages, incomes and calculated
 sales values.
+<img width="1388" height="2190" alt="2" src="https://github.com/user-attachments/assets/a56b9af3-103e-48b9-826c-aca793bb16f4" />
 
 Sales values vary substantially across orders, reflecting differences
 in product prices, quantities and discounts. These differences are
@@ -167,6 +179,7 @@ removing records.
 ### Correlation Analysis
 
 Correlation analysis explored relationships between numerical fields.
+<img width="941" height="690" alt="3" src="https://github.com/user-attachments/assets/c28a54ae-0e7d-47dd-81c0-8527d2e7bc1a" />
 
 - Price has a positive correlation with sales before tax.
 - Quantity also has a positive correlation with sales before tax.
@@ -234,6 +247,7 @@ These segments describe historical behaviour rather than predict
 customer loyalty or churn.
 
 ### Objective 4: Product Performance and Revenue Concentration
+<img width="1590" height="796" alt="product_pareto" src="https://github.com/user-attachments/assets/860d4f5f-17f5-4122-8a56-400cd6c4b36f" />
 
 - **Home & Living** generates approximately **177.31 million**,
   accounting for **67.24% of total sales**.
