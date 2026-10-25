@@ -133,3 +133,44 @@ once per order.
   and merged transaction tables.
 - Grouped the 30 product types into **Home & Living, Electronics
   and Fashion & Apparel**.
+
+  ## 🔍 Exploratory Data Analysis (EDA)
+
+Exploratory analysis was conducted to understand numerical
+distributions, investigate unusually high order values and examine
+relationships between variables before the business analysis.
+
+### Numerical Distributions
+
+Descriptive statistics and distribution plots were used to examine
+prices, quantities, discounts, customer ages, incomes and calculated
+sales values.
+
+Sales values vary substantially across orders, reflecting differences
+in product prices, quantities and discounts. These differences are
+considered when comparing product and customer performance.
+
+### High-Value Order Investigation
+
+Box plots and a review of high-value orders were used to investigate
+potential outliers.
+
+The reviewed orders were retained because no errors were identified.
+High sales values alone were not treated as sufficient grounds for
+removing records.
+
+### Correlation Analysis
+
+Correlation analysis explored relationships between numerical fields.
+
+- Price has a positive correlation with sales before tax.
+- Quantity also has a positive correlation with sales before tax.
+- Discount has a weak negative correlation with sales before tax.
+- Discount and purchase quantity show almost no linear correlation.
+
+Sales before tax is calculated from price, quantity and discount,
+so its correlations with these inputs partly reflect the metric's
+mathematical definition.
+
+These correlations describe associations and do not establish
+causal relationships.
