@@ -374,6 +374,13 @@ Clearly identify partial months to avoid misleading conclusions.
 | Microsoft Power BI | Data modelling, DAX measures and interactive dashboards |
 | GitHub | Project documentation and file sharing |
 
+### Project Files
+
+- [Python Analysis Notebook](Capstone_Market_Analysis.ipynb)
+- [Power BI Report](Capstone%20Project-Feng%20Yuanmei.pbix)
+- [Purchase Dataset](purchase.csv)
+- [Customer Dataset](customer.csv)
+
 ## 🏁 Conclusion
 
 This project analyses retail sales and customer purchasing behaviour
