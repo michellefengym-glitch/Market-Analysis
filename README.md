@@ -49,3 +49,87 @@ The project uses two datasets:
 - One customer has no recorded purchases and is retained in the customer table.
 
   
+## 🧹 Data Understanding and Preparation
+
+Data preparation was performed in Python using Google Colab.
+The purchase and customer datasets were checked separately
+before being merged for analysis.
+
+### Missing Values and Duplicate Checks
+
+- No missing values or duplicate rows were found in either dataset.
+- Order IDs in the purchase table and customer IDs in the customer
+  table were unique.
+- No missing-value imputation or duplicate removal was required.
+
+### Date Conversion and Validation
+
+- Converted `order_date` and `shipping_date` to datetime format.
+- Checked for missing or invalid dates.
+- Calculated `days_to_ship` as the number of days between order
+  placement and shipping.
+- Checked for shipping dates earlier than order dates.
+
+### Numerical Range and Validity Checks
+
+Reviewed numerical summaries and checked for:
+
+- Non-positive prices and quantities.
+- Non-integer quantities and ages.
+- Discounts and tax rates outside the range of 0–1.
+- Negative shipping costs and incomes.
+- Non-positive ages.
+
+High-value orders were reviewed and retained because no errors
+were identified during the investigation.
+
+### Customer Matching and Data Integration
+
+The purchase table was left-joined with the customer table using
+`customer_id`, with a many-to-one relationship validated.
+
+- All 50,000 purchase records matched a customer.
+- The merged dataset retained exactly 50,000 rows.
+- One customer, `CS01001`, had no recorded purchases and was retained
+  in the customer master table.
+
+Customer counts use unique customer identifiers. Customer
+demographic distributions use the customer master table to avoid
+counting customers repeatedly across transactions.
+
+### Sales Metric Preparation
+
+The following fields were calculated:
+
+| Metric | Definition |
+| --- | --- |
+| Discounted Price | Price × (1 − Discount) |
+| Sales Before Tax | Discounted Price × Quantity |
+| Tax Amount | Sales Before Tax × Tax Rate |
+| Sales After Tax | Sales Before Tax + Tax Amount |
+| Order Total | Sales After Tax + Shipping Charge |
+| Average Order Value | Total Sales Before Tax ÷ Unique Orders |
+
+**Sales Before Tax** is the main revenue measure used in this
+project and excludes tax and shipping.
+
+**Order Total** represents the calculated amount payable rather
+than actual cash collections. Shipping cost is assumed to be
+charged to customers without additional shipping tax.
+
+Each purchase record represents one order, so shipping is added
+once per order.
+
+### Feature Engineering
+
+- Created year, month, year-month and quarter fields for time-based analysis.
+- Grouped ages into **18–25, 26–35, 36–45, 46–55 and 56+**.
+- Grouped incomes into **Below 30K, 30K–60K, 60K–90K,
+  90K–120K and 120K+**.
+- Income intervals include the lower boundary and exclude the upper
+  boundary. These are project-defined ranges, not official income
+  classifications.
+- Applied identical age and income group definitions to the customer
+  and merged transaction tables.
+- Grouped the 30 product types into **Home & Living, Electronics
+  and Fashion & Apparel**.
