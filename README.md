@@ -32,7 +32,8 @@ As a data analyst supporting a retail company operating across four Latin Americ
 
 ## 💡 Power BI Dashboard
 ### 1: Retail Sales & Customer Insights
-<img width="1155" height="653" alt="image" src="https://github.com/user-attachments/assets/23aaf98c-d39e-4c4f-8430-4291b3f77d08" />
+<img width="1312" height="739" alt="image" src="https://github.com/user-attachments/assets/55a0e9c3-fa95-4249-8e16-94abe86277af" />
+
 
 ### 2: Customer & Product Deep Dive
 This page explores customer value and recency, compares customer
