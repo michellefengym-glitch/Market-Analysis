@@ -234,12 +234,10 @@ causal relationships.
   be compared directly with complete months.
 
 ### Objective 2: Customer Demographic and Geographic Analysis
-<img width="1289" height="490" alt="1" src="https://github.com/user-attachments/assets/601a57ab-3d76-4e1d-bc62-029c7ee5cba8" />
-<img width="1289" height="490" alt="2" src="https://github.com/user-attachments/assets/5fdb14d6-34dd-4a47-883d-ddca3d285a35" />
-<img width="1189" height="490" alt="3" src="https://github.com/user-attachments/assets/8ad43197-bc9a-4cbe-b1ca-04b0bca3189d" />
-<img width="1390" height="490" alt="4" src="https://github.com/user-attachments/assets/7f801035-48ab-4260-8348-a63af1d2f380" />
-
-
+<img width="1289" height="490" alt="sales revenue by country" src="https://github.com/user-attachments/assets/29b2b508-feef-450e-af7a-421fad5e929d" />
+<img width="1289" height="490" alt="sales revenue by age group" src="https://github.com/user-attachments/assets/bc1c60ed-a9b6-4bac-b170-bb7720c80fe3" />
+<img width="1189" height="490" alt="sales revenue by gender" src="https://github.com/user-attachments/assets/babd19b5-7c3b-4cb6-8df9-ccc515e38bba" />
+<img width="1390" height="540" alt="sales revenue by Income group" src="https://github.com/user-attachments/assets/735c9b70-f83f-4c35-9ab4-162bd3c1f991" />
 
 - **Colombia** contributes the largest sales share at **28.20%**,
   followed by Chile, Mexico and Brazil.
