@@ -135,7 +135,7 @@ The following fields were calculated:
 | Order Total | Sales After Tax + Shipping Charge |
 | Average Order Value | Total Sales Before Tax ÷ Unique Orders |
 
-**Sales Before Tax is the main revenue measure used in this
+**Sales Before Tax (Sales Revenue) is the main revenue measure used in this
 project and excludes tax and shipping** .
 
 **Order Total** represents the calculated amount payable rather
