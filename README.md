@@ -50,7 +50,7 @@ across products and discount bands.
   >Compare revenue contribution, order volume and average order value across country, age groups, gender and income levels to identify valuable customer groups and opportunities for targeted marketing.
 
 * **Customer Value Segmentation**
-  >Segment customers based on total spending and recent purchase activity to identify high-value and less recently active customers, supporting targeted engagement and repeat-purchase initiatives.
+  >Segment customers based on spending and recent purchase activity to identify high-value and less recently active customers, supporting targeted engagement and repeat-purchase initiatives.
   
 * **Product Performance and Revenue Concentration**
   >Compare revenue, quantities sold and revenue share across product types to identify leading and lower-performing products, supporting product priorities and portfolio decisions.
