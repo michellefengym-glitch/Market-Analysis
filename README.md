@@ -47,7 +47,7 @@ across products and discount bands.
   >Analyse monthly sales revenue, order volume and quantities purchased over comparable periods to identify sales trends and potential seasonal patterns, supporting sales planning and promotional scheduling.
 
 * **Customer Demographic and Geographic Analysis**
-  >Compare revenue contribution, order volume and average order value across age groups, gender, country and income levels to identify valuable customer groups and opportunities for targeted marketing.
+  >Compare revenue contribution, order volume and average order value across country, age groups, gender and income levels to identify valuable customer groups and opportunities for targeted marketing.
 
 * **Customer Value Segmentation**
   >Segment customers based on total spending and recent purchase activity to identify high-value and less recently active customers, supporting targeted engagement and repeat-purchase initiatives.
