@@ -53,10 +53,10 @@ across products and discount bands.
   >Segment customers based on spending and recent purchase activity to identify high-value and less recently active customers, supporting targeted engagement and repeat-purchase initiatives.
   
 * **Product Performance and Revenue Concentration**
-  >Compare revenue, quantities sold and revenue share across product types to identify leading and lower-performing products, supporting product priorities and portfolio decisions.
+  >Compare revenue, quantities sold and revenue share across product types to identify leading and lower-revenue products, supporting product priorities and portfolio decisions.
 
 * **Discount and Purchasing Behaviour Analysis** 
-  >Examine the relationship between discount rates, quantities purchased and order values within comparable product groups to inform discount and promotional decisions.
+  >Examine the relationship between discount rates, quantities purchased and order values to inform discount and promotional decisions.
 
 ## 📊 Dataset Overview
 
